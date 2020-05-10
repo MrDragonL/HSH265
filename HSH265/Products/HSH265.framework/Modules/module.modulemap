@@ -1,0 +1,6 @@
+framework module HSH265 {
+  umbrella header "HSH265.h"
+
+  export *
+  module * { export * }
+}
